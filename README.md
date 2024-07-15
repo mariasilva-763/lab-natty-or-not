@@ -23,16 +23,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
-
+e-book sobre Machine Learning para iniciante
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Copilot
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fazendo questionamentos a IA
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+"Cognitive Biases: A Brief Overview of Over 160 Cognitive Biases"1: Este livro, de autoria de Murat Durmus, inclui um capítulo sobre tendências algorítmicas e discute o viés, um problema comum em Machine Learning.
+"Learning Scientific Programming with Python"1: Embora não seja exclusivamente sobre Machine Learning, esta segunda edição (publicada em 2020) é uma boa referência para usuários e iniciantes de Matplotlib, NumPy e SciPy, pacotes Python amplamente usados em Machine Learning.
+"Machine Learning – Guia de Referência Rápida: Trabalhando com dados estruturados em Python"2: Este e-book do autor Matt Harrison aborda o básico do Machine Learning com dados estruturados.
+"Machine Learning in Action"3: Este guia prático ensina desenvolvedores a codificar seus próprios programas para obter dados para análise.
+Lembre-se de verificar os links para acessar os livros gratuitos e começar sua jornada no mundo do Machine Learning! 📚✨
+
+
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
